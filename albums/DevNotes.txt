@@ -1,0 +1,5 @@
+
+
+react-native init albums :   Genera un proyecto llamado albums
+
+react-native run-android :   Ejecuta el proyecto
