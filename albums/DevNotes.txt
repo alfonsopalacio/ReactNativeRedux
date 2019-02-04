@@ -5,7 +5,7 @@ react-native init albums :   Genera un proyecto llamado albums
 react-native run-android :   Ejecuta el proyecto
 
 
-Lista de albumes y detalles
+Lista de albumes y detalles.
 http://rallycoding.herokuapp.com/api/music_albums
 
 
