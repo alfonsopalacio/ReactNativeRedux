@@ -7,7 +7,6 @@ import { Text, View } from 'react-native';
 
 // Make a component
 const Header = (props) => {
-
   const { textStyle, viewStyle } = styles;  // usando Destructuring
 
   return (
@@ -22,7 +21,7 @@ const Header = (props) => {
 // 'flex-end' 'center'  'flex-start'
 
 const styles = {
-  viewStyle:{
+  viewStyle: {
     backgroundColor: '#F8F8F8',
     justifyContent: 'center',
     alignItems: 'center',
@@ -35,7 +34,7 @@ const styles = {
     elevation: 2,
     position: 'relative'
   },
-  textStyle:{
+  textStyle: {
     fontSize: 20
   }
 };
